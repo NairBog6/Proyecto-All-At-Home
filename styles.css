@@ -1,0 +1,57 @@
+
+
+
+
+/* Estilos para el fondo y la tipografia de mi pagina */
+body {
+    background-color: #f0f4f8; /* Color de fondo suave */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Tipografía definida */
+    color: #333333; /* Color de texto principal */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Estilo para el titulo principal */
+h1 {
+    color: #1a5f7a; /* Color azul oscuro/institucional */
+    font-size: 40px; /* Tamaño de texto grande */
+    font-weight: 800; /* Grosor de letra extra negrita */
+    text-align: center;
+}
+
+/* Estilo  para los subtitulos */
+h2 {
+    color: #57c5b6; /* Color complementario turquesa */
+    font-size: 24px; /* Tamaño de texto mediano */
+    font-weight: 600; /* Grosor de letra semi negrita */
+    border-bottom: 2px solid #57c5b6;
+    padding-bottom: 5px;
+}
+
+/* Estilo para parrafos */
+p {
+    font-size: 16px; /* Medida de texto estandar */
+    color: #4a4a4a;
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #2c3e50;
+}
+
+/* Clase CSS aplicada para destacar un elemento del HTML */
+.texto-destacado {
+    font-weight: 700; /* Cambio de grosor visible (Negrita) */
+    color: #159895; /* Color diferenciado para llamar la atencion */
+}
+
+
+
+
+
+
+
+
+
